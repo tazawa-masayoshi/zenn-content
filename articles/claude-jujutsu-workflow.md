@@ -182,7 +182,7 @@ jj git push
 
 全部Claudeがやってくれる。私は見てるだけ。最高。
 
-ちなみに、コミットメッセージを必須にしなければ`jj push`みたいなエイリアスで`bookmark set` + `git push`を一発にできるかも。私はConventional Commitsを守りたいから分けてるけど。
+ちなみに、コミットメッセージを必須にしなければ`jj push`みたいなエイリアスで`bookmark set` + `git push`を一発にできるかも。私はConventional CommitsでAIにわかりやすくしたいから分けてるけど。
 
 ## モノレポでも余裕
 
