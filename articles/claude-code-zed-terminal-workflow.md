@@ -52,21 +52,21 @@ Cursorの右側にあるAIチャット、使わなくなった。
 
 （Zedにも右にAIチャットあるけど、安定性があるからね）
 
+### そしてZed
+
+実はVS Codeを触ったことがない。一番最初のIDEがCursorだった。
+
+半年以上Cursorを使って、Zedに出会った。Rust製で軽い。ターミナル4分割できる。めちゃめちゃいい。
+
 ### VS Codeアレルギー
 
-Kiro、Windsurf、Antigravity...全部VS Codeフォーク。
+その後、話題のエディタも試してみた。Kiro、Windsurf、Antigravity...全部VS Codeフォーク。
 
 - 拡張機能の管理が面倒
 - settings.jsonの独自仕様
 - ターミナルが横並びしかできない
 
 **もうVS Code系は無理だ。**
-
-### そしてZed
-
-Rust製で軽い。ターミナル4分割できる。
-
-最初の乗り換えで出会って、そのまま落ち着いた。
 
 ## Zedの良さ
 
