@@ -139,9 +139,11 @@ OpenCodeはCerebrasを公式サポートしてる。
 
 定額で使いたいなら**Cerebras Code**（$50/月〜）を使う必要がある。OpenCode経由だと定額プランはない。
 
+**ただし現在Sold Out。** Pro（$50/月）もMax（$200/月）も売り切れ状態。使いたい場合はDeveloper（従量課金）しか選択肢がない。
+
 ---
 
-**結論：** OpenCodeで試すならまずFreeから。rate limitがキツければDeveloper（$10〜）。
+**結論：** OpenCodeで試すならDeveloper（$10〜）一択。Freeはrate limitがキツい。
 
 ## まとめ
 
