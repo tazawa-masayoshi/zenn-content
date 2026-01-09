@@ -278,6 +278,16 @@ This credential is only authorized for use with Claude Code and cannot be used f
 
 参考: [sst/opencode#417](https://github.com/sst/opencode/issues/417)
 
+:::details 修正PRについて
+
+[PR #10](https://github.com/anomalyco/opencode-anthropic-auth/pull/10) で修正が進んでいる。
+ツール名に `oc_` プレフィックスを付けてチェックを回避する方法らしい。
+
+ただし本体への統合（[#5957](https://github.com/anomalyco/opencode/issues/5957)）がまだなので、使うにはローカルビルドが必要。
+正式リリースを待つのが無難。
+
+:::
+
 ## 設定ファイル
 
 ### ~/.config/opencode/opencode.json
