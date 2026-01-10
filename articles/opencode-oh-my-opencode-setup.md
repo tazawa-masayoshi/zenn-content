@@ -336,3 +336,18 @@ This credential is only authorized for use with Claude Code and cannot be used f
 OpenCode + oh-my-opencode で、複数のAIモデルを協調させるコーディング環境が作れる。まずは Claude Pro だけで始めて、物足りなければ ChatGPT や Gemini を追加していけばいい。
 
 まだ使い始めなので、発見があればガンガン追記していく予定。
+
+---
+
+### 追記：Sisyphus Labs？
+
+:::message
+**2025/1/11 追記**: 謎の事前登録が始まっていた。
+:::
+
+> Sisyphusは、あなたのチームのようにコードを書くエージェントです。
+> プロトタイプでもスニペットでもない。Sisyphusは本番環境のPRを確実に出荷します。
+
+という文字だけサイトにあり、事前登録のみができる。
+
+[Sisyphus Labs](https://sisyphuslabs.ai/ja?ref=GA7V23TD)
