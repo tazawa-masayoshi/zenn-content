@@ -268,6 +268,10 @@ Claude Code だとターミナルに画像をドラッグ&ドロップできる�
 
 :::message alert
 **2025/1/9 追記**: Claude Code の OAuth トークンを OpenCode で使うことはできなくなりました。
+
+**2025/1/11 追記**: 回避策を使用したユーザーのアカウントBAN報告が多数出ている。DHH氏は「非常に顧客に敵対的だ」と批判。背景には「食べ放題ビュッフェ問題」がある（公式Claude Codeは速度制限あり、サードパーティは制限回避で一晩中稼働 → Anthropicにとって採算が合わない）。**回避策の使用は推奨しない。**
+
+参考: [Hacker News](https://news.ycombinator.com/item?id=46549823)
 :::
 
 以前は特殊なヘッダーで動作していたらしいが、Anthropic が対策した模様。
@@ -283,7 +287,9 @@ This credential is only authorized for use with Claude Code and cannot be used f
 
 参考: [sst/opencode#417](https://github.com/sst/opencode/issues/417)
 
-:::details 回避策（2025/1/10 更新）
+:::details 回避策（⚠️ 非推奨・BAN報告あり）
+
+**警告**: この回避策を使用するとアカウントBANされる可能性がある。自己責任で。
 
 [PR #10](https://github.com/anomalyco/opencode-anthropic-auth/pull/10) がマージされ、v0.0.7 がリリースされた。
 
